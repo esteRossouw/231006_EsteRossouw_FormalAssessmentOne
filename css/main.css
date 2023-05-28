@@ -1,3 +1,50 @@
 .form-btn{
-    margin-top: 10px;
+    margin-top: 15px;
+}
+
+.display-4{
+    margin-left: 200px;
+}
+.lead{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.my-4{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.jumbotron p{
+    margin-left: 200px;
+}
+.card-1{
+    margin-left: 200px;
+    margin-right: 20px;
+    
+}
+.card-2{
+    margin-left: 80px;
+    
+}   
+.card-3{
+    margin-right: 100px;
+    margin-left: -45px;
+}
+
+.col-6-box{
+    margin-top: 50px;
+    margin-left: 200px;
+}
+.col-6-block{
+    margin-top: 50px;
+    margin-right: 200px;
+}
+
+
+.footer-con{
+    background-color: #2b2b2b;
+    color: white;
+    text-align: center;
+    height: 70px;
+    margin-top: 70px;
+    padding-top: 20px;
 }
